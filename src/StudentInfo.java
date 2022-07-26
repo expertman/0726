@@ -1,3 +1,11 @@
+/*
+ * Author : 
+ * When : 
+ * Objectives : 
+ * Environment : Windows 10 , OpenJDK 11.0.16, Eclipse 2022-6
+ * 
+ */
+
 import java.util.Scanner;
 
 public class StudentInfo {
